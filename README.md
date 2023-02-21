@@ -1,9 +1,12 @@
+# Подключаемся к Git по SSH в Windows
+
+
 https://only-to-top.ru/blog/tools/2019-12-08-git-ssh-windows.html?ysclid=leer3fw4ko184654651.
 
  [источник](https://www.google.com)
-# 1. генерация ssh ключа
-# 2. Добавление SSH ключа в SSH-agent
-# 3. добавление  ключа у учетку гитхаб
+## 1. генерация ssh ключа
+## 2. Добавление SSH ключа в SSH-agent
+## 3. добавление  ключа у учетку гитхаб
 
 _______________________________
 
